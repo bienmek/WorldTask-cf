@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+
+body {
+    background-color: cadetblue;
+}
+
+.container {
+    height: 1080px;
+    width: 1080px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #25995C;
+    font-size: 105px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: bold;
+}

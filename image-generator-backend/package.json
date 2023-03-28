@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@google-cloud/storage": "^6.9.0",
+    "b64-to-blob": "^1.2.19",
+    "canvas": "^2.11.0",
+    "download": "^8.0.0",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.1",
+    "fontkit": "^2.0.2",
+    "fs": "^0.0.1-security",
+    "html-to-image": "^1.11.4",
+    "html2canvas": "^1.4.1",
+    "https": "^1.0.0",
+    "jsdom": "^20.0.3",
+    "request": "^2.88.2",
+    "xmldom": "^0.6.0"
+  }
+}
